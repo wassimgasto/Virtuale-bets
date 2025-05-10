@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مراهناتي الوهمية</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🎮 رهانات وهمية</h1>
+        <div class="match">
+            <p>الهلال vs النصر</p>
+            <button onclick="placeBet('الهلال')">رهان (50 نقطة)</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
